@@ -373,9 +373,9 @@ export default function Portfolio() {
           font-size: 13px;
           padding: 11px 18px;
           border-radius: 8px;
-          background: rgba(255,255,255,0.06);
-          border: 1px solid rgba(255,255,255,0.12);
-          color: var(--bg);
+          background: rgba(255,255,255,0.05);
+          border: 1px solid var(--border);
+          color: #FFFFFF;
           text-decoration: none;
         }
         .contact-link:hover { background: rgba(127,200,180,0.16); border-color: var(--accent); }
